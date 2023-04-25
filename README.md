@@ -1,4 +1,4 @@
-## Go Ethereum
+## Go TFX
 
 Official Golang implementation of the Ethereum protocol.
 
@@ -222,7 +222,7 @@ aware of and agree upon. This consists of a small JSON file (e.g. call it `genes
 ```json
 {
   "config": {
-    "chainId": <arbitrary positive integer>,
+    "chainId": 313,
     "homesteadBlock": 0,
     "eip150Block": 0,
     "eip155Block": 0,
